@@ -1,0 +1,36 @@
+/* HEADER STYLES */
+
+.page-header {
+    color: #2E2F42;
+}
+
+.logo-half-word {
+    color: #4D5AE5;
+}
+
+
+/* HERO STYLES */
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    color: #FFFFFF;
+}
+
+.hero-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+
+/* ADVANTAGES */
+
+.advantages-list-title {
+    color: #2E2F42;
+}
+
+.advantages-list-text {
+    color: #434455;
+}
