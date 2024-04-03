@@ -2,6 +2,11 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+    background-color: #ffffff;
 }
 
 
@@ -39,6 +44,3 @@ body {
     color: #2E2F42;
 }
 
-.advantages-list-text {
-    color: #434455;
-}
